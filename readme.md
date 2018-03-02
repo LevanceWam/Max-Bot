@@ -32,8 +32,6 @@ DB_PORT_HOST=3306
 DB_PORT_GUEST=3306
 BOT_PORT_HOST=80
 BOT_PORT_GUEST=3000
-BOT_PORT_HOST=80
-BOT_PORT_GUEST=3000
 EMAIL_USERNAME=xxx
 EMAIL_PASS=xxx
 ```
@@ -47,7 +45,6 @@ EMAIL_PASS=xxx
 
 Obtain a [Discord App Bot Token](https://discordapp.com/developers/applications/me) from your registered app (or register a new one) to proceed or contact a Release Manager for Max's Dev Bot token.
 
-Replace the ```{DiscordBotToken}``` within the ```max.config.js``` file with the token provided to you.
 
 ### Adding the Bot to a Server
 
